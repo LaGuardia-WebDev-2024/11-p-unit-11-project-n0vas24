@@ -1,5 +1,5 @@
 body {
-  background-color: aliceblue;
+  background-color: #ab4828;
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -14,13 +14,13 @@ html{
 }
 
 #myCanvas {
-  border: 1px solid black;
+  border: 1px solid brown;
 }
 
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: #fff9f7;
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 20px;
@@ -30,11 +30,11 @@ html{
   height: 450px;
   width: 600px;
   object-fit: cover;
-  border: 1px solid black;
+  border: 3px solid brown;
 }
 
 h2{
-  color: black;
+  color: brown;
 /*   font-size: 10px; */
 }
 
